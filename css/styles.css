@@ -8,7 +8,7 @@ p.a{
 	font-size: 78px;
 	text-shadow: #F7F7F7 0px 0px 0px;
 	letter-spacing: -0.049em;
-	color: #404040;
+	color: #000;
 }
 
 body {
@@ -16,6 +16,7 @@ body {
 	padding: 0px;
 	font: 10px verdana, sans serif;
 	color: #000;
+	background-color: #000;
 }
 
 #h1 {
@@ -23,7 +24,7 @@ body {
 	top: 0px;
 	height: 5px;
 	width: 100%;
-	background-color: #FFF;
+	background-color: #000;
 }
 
 #h2 {
